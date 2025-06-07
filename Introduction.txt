@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is Kojo. I am currently learning how to use GitHub and version control systems. I am excited to explore the world of programming and contribute to open-source projects.
+
+In the near future, I hope to build and share some awesome projects with the community as I grow my skills.
