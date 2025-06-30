@@ -1,1 +1,8 @@
 One thing I've learned is how to use Git to manage and track my project progress.
+
+During this course, I have learned how to use Git and GitHub to manage code effectively.
+ I now understand how to clone repositories, create and edit files locally, and track changes using commits.
+ I’ve also learned the importance of authentication and how to push updates to a remote repository.
+ Using Git Bash was new to me, but I’m getting more comfortable with command-line tools.
+ This knowledge has boosted my confidence in collaborating on real-world projects with version control.
+
